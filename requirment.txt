@@ -1,0 +1,8 @@
+langchain-huggingface==0.1.2
+langchain-chroma==0.1.4
+langchain-text-splitters==0.3.4
+chromadb==0.5.23
+chroma-hnswlib==0.7.6
+tokenizers==0.20.3
+transformers==4.46.3
+pypdf==5.1.0
